@@ -1,0 +1,4 @@
+#Wed Dec 23 02:10:35 PKT 2020
+base.0=E\:\\Zurvos-Admin-main\\Zurvos-Admin-main\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
